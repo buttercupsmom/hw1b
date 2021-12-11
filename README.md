@@ -10,3 +10,6 @@ The new Horiseon website that meets accesability standards and has semantic html
 
 ## Link to Repository
 
+-Here is the repo:[https://github.com/buttercupsmom/hw1b.git]
+
+-Here is the pages:[https://buttercupsmom.github.io/hw1b/]
